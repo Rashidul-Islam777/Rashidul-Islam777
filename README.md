@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rashidul-Islam
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, specially in web design and development
 - 🌱 I’m currently learning web design and development
 - 💞️ I’m looking to collaborate on web industry and later on other fields as well
 - 📫 You can reach me using my gmail which is mdrashidulislam777@gmail.com
